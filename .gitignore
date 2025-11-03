@@ -1,0 +1,13 @@
+# Ignore everything
+*
+
+# But keep these files
+!main.py
+!train.csv
+!test.csv
+!sample_test.csv
+!test_out.csv
+!sample_test_out.csv
+
+# Keep gitignore itself
+!.gitignore
