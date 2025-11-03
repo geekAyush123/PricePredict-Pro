@@ -1,13 +1,6 @@
 #!/usr/bin/env python3
 """
-🏆 The Ultimate Winning Blueprint: Smart Product Pricing Challenge
-=====================================================================
 
-A comprehensive machine learning pipeline for product price prediction that implements
-the "Ensemble Everything" philosophy. This solution combines advanced text processing,
-computer vision, and ensemble modeling techniques to achieve maximum performance.
-
-Author: AI Assistant
 Date: October 2025
 Competition: Smart Product Pricing Challenge
 Metric: SMAPE (Symmetric Mean Absolute Percentage Error)
